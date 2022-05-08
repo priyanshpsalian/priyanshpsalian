@@ -15,7 +15,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Thadomal Shahani Engineering College
+- :school: I am a `Senior` at Thadomal Shahani Engineering College
 - :trophy: coming soon
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codechef`
