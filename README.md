@@ -16,12 +16,12 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Senior` at Thadomal Shahani Engineering College
-- :trophy: coming soon
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codechef`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1j-QQ4x-bATUG-zhVWnlH2J9NCDdfQv0b/view?usp=sharing).
 - :nerd_face: Always `learning new things`
+- :trophy: coming soon
 
 <br>
 
