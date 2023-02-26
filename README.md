@@ -190,7 +190,8 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/priyanshpsalian"><img alt="Priyansh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshpsalian&custom_title=Priyansh's%20Contribution%20Graph&theme=react-dark" /></a>
+<!--    <a href="https://github.com/priyanshpsalian"><img alt="Priyansh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshpsalian&custom_title=Priyansh's%20Contribution%20Graph&theme=react-dark" /></a> -->
+[![Priyansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=priyanshpsalian0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br/>
 
 
