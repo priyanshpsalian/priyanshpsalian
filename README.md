@@ -196,6 +196,15 @@
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyanshpsalian&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 <!-- </a> -->
   <br/>
+    <summary><b>🔥 Streak Stats</b></summary>
+  <br/>
+<!--    <a href="https://github.com/priyanshpsalian"><img alt="Priyansh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshpsalian&custom_title=Priyansh's%20Contribution%20Graph&theme=react-dark" /></a> -->
+
+<!-- <a href="https://github.com/priyanshpsalian/github-readme-activity-graph#gh-dark-mode-only"> -->
+ <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshpsalian&theme=algolia" alt="priyanshpsalian" /></p>
+<!-- </a> -->
+  <br/>
+  
 
 
 <br/>
