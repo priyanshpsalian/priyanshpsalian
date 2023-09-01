@@ -20,9 +20,13 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codechef`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1j-QQ4x-bATUG-zhVWnlH2J9NCDdfQv0b/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1bku-wWk7fQ0beQYEEYU5kV0CnaKEcUJ7/view?usp=drive_link).
 - :nerd_face: Always `learning new things`
-- :trophy: coming soon
+- :trophy: 2023 top 5/600 M.H. Saboo Siddik College of Engineering Hackathon
+- :trophy: 2022 3 Star coder CodeChef
+- :trophy: 2022 Organiser TSEC HACKS 2022
+- :trophy: 2021 top 10/700 CSI Hackathon 2021
+- :trophy: 2021 Organiser TSEC HACKS 2021
 
 <br>
 
