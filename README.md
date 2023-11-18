@@ -43,9 +43,6 @@
  <a href="https://www.codechef.com/users/priyansh2002"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
   <a href="https://codeforces.com/profile/priyanshpsalian"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/priyanshpsalian/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<!-- <a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a> -->
-	
-	<!-- <a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>      -->
 	<a href="https://www.codingame.com/profile/303482d49a42f4c422b0025f641085f32698784" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
@@ -196,7 +193,7 @@
 
 <!-- <a href="https://github.com/priyanshpsalian/github-readme-activity-graph#gh-dark-mode-only"> -->
 <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyanshpsalian&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%"> -->
- <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+ <img src="https://github-readme-stats.vercel.app/api?username=priyanshpsalian&show_icons=true&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 <!-- </a> -->
   <br/>
     <summary><b>🔥 Streak Stats</b></summary>
