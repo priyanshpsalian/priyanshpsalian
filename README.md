@@ -193,7 +193,7 @@
 
 <!-- <a href="https://github.com/priyanshpsalian/github-readme-activity-graph#gh-dark-mode-only"> -->
 <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyanshpsalian&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%"> -->
- <img src="https://github-readme-stats.vercel.app/api?username=priyanshpsalian&show_icons=true&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+ <img src="https://github-readme-stats.vercel.app/api?username=priyanshpsalian&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 <!-- </a> -->
   <br/>
     <summary><b>🔥 Streak Stats</b></summary>
