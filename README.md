@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/priyanshpsalian/priyanshpsalian"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshpsalian&label=Profile%20views&color=0e75b6&style=flat" alt="krishcshah" /> </p> -->
 
 
 <br>
@@ -16,12 +15,12 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Senior` at Thadomal Shahani Engineering College
+- :school: I am a `Final year student` at Thadomal Shahani Engineering College
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codechef`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 <!--  - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1bku-wWk7fQ0beQYEEYU5kV0CnaKEcUJ7/view?usp=drive_link).-->
-- :nerd_face: Always `learning new things`
+- :nerd_face: Always want to `learning new things`
 - :trophy: 2023 top 5/600 M.H. Saboo Siddik College of Engineering Hackathon
 - :trophy: 2022 3 Star coder CodeChef
 - :trophy: 2022 Organiser TSEC HACKS 2022
@@ -40,10 +39,12 @@
 ## 👀 My Competitive Programming Profiles
 
 <p align="center">
+
+ <a href="https://www.codechef.com/users/priyansh2002"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
   <a href="https://codeforces.com/profile/priyanshpsalian"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/priyanshpsalian/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<!-- <a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a> -->
-	<a href="https://www.codechef.com/users/priyansh2002"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+	
 	<!-- <a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>      -->
 	<a href="https://www.codingame.com/profile/303482d49a42f4c422b0025f641085f32698784" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
@@ -52,11 +53,8 @@
 <p align="center">
 	<a href="priyanshpsalian@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/priyanshpsalian"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/917045397413"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/priyansh-salian-6a74a621a"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<!-- <a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
 	<a href="https://www.instagram.com/priyansh_salian/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<!-- <a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a> -->
 </p>
 
 
@@ -197,7 +195,8 @@
 <!--    <a href="https://github.com/priyanshpsalian"><img alt="Priyansh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshpsalian&custom_title=Priyansh's%20Contribution%20Graph&theme=react-dark" /></a> -->
 
 <!-- <a href="https://github.com/priyanshpsalian/github-readme-activity-graph#gh-dark-mode-only"> -->
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyanshpsalian&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=priyanshpsalian&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%"> -->
+ <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 <!-- </a> -->
   <br/>
     <summary><b>🔥 Streak Stats</b></summary>
