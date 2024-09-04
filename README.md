@@ -15,7 +15,8 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Final year student` at Thadomal Shahani Engineering College
+- :GradSchool: I am a `First year student` at Illinois Institute of Technology
+- :UndergradSchool: I have `Graduated` from Thadomal Shahani Engineering College
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codechef`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
