@@ -126,14 +126,14 @@ const engineer = {
 
 | Project | Description | Scale |
 |---------|-------------|-------|
-| 🧠 [**NeuralMesh**](https://priyanshsalian.me/#projects) | Distributed ML inference orchestration — Kubernetes-native, multi-region | `2.3M req/min` · `47ms p99` · `99.99% uptime` |
-| ⚡ [**StreamForge**](https://priyanshsalian.me/#projects) | Kafka-native event streaming backbone — schema registry, Flink processing | `15B events/day` · `4.2M/s throughput` · `0 message loss` |
-| 🚀 [**Nexus Deploy**](https://priyanshsalian.me/#projects) | Multi-cloud deployment orchestration — blue/green, canary, auto-rollback | `12K deploys/day` · `45s MTTR` · `300+ teams` |
-| 🔭 [**ObserveIQ**](https://priyanshsalian.me/#projects) | Full-stack observability — metrics, logs, traces, ML-powered alerting | `800K metrics/sec` · `−91% alert noise` · `<200ms queries` |
-| 🔍 [**VectorNova**](https://priyanshsalian.me/#projects) | High-performance vector database — custom HNSW, tiered storage | `100B+ vectors` · `<5ms search` · `1M writes/s` |
-| 🛡️ [**SentinelAI**](https://priyanshsalian.me/#projects) | AI security intelligence — LSTM anomaly detection, LLM incident triage | `MTTD: 4h → 3min` · `−94% false positives` |
-| 🤖 [**FluxOrchestrate**](https://priyanshsalian.me/#projects) | LLM workflow orchestration — DAG engine, checkpoint/resume, audit trails | `50K+ concurrent sessions` · `99.7% success rate` |
-| 🌐 [**Prism Gateway**](https://priyanshsalian.me/#projects) | Enterprise LLM API gateway — semantic caching, PII redaction, 15+ providers | `78% cache hit rate` · `$2M/mo cost saved` · `<3ms overhead` |
+| 🧠 **NeuralMesh** | Distributed ML inference orchestration — Kubernetes-native, multi-region | `2.3M req/min` · `47ms p99` · `99.99% uptime` |
+| ⚡ **StreamForge** | Kafka-native event streaming backbone — schema registry, Flink processing | `15B events/day` · `4.2M/s throughput` · `0 message loss` |
+| 🚀 **Nexus Deploy** | Multi-cloud deployment orchestration — blue/green, canary, auto-rollback | `12K deploys/day` · `45s MTTR` · `300+ teams` |
+| 🔭 **ObserveIQ** | Full-stack observability — metrics, logs, traces, ML-powered alerting | `800K metrics/sec` · `−91% alert noise` · `<200ms queries` |
+| 🔍 **VectorNova** | High-performance vector database — custom HNSW, tiered storage | `100B+ vectors` · `<5ms search` · `1M writes/s` |
+| 🛡️ **SentinelAI** | AI security intelligence — LSTM anomaly detection, LLM incident triage | `MTTD: 4h → 3min` · `−94% false positives` |
+| 🤖 **FluxOrchestrate** | LLM workflow orchestration — DAG engine, checkpoint/resume, audit trails | `50K+ concurrent sessions` · `99.7% success rate` |
+| 🌐 **Prism Gateway** | Enterprise LLM API gateway — semantic caching, PII redaction, 15+ providers | `78% cache hit rate` · `$2M/mo cost saved` · `<3ms overhead` |
 
 </div>
 
