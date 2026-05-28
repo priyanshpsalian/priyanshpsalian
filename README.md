@@ -139,28 +139,6 @@ const engineer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshpsalian&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshpsalian&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&hide=html,css" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshpsalian&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ec4899&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" width="65%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshpsalian&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ec4899&area=true&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshpsalian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
-
 ---
 
 ## 🤝 Let's Build Something
