@@ -1,115 +1,179 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:ec4899&height=200&section=header&text=Priyansh%20Salian&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%20Infrastructure&descSize=18&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:ec4899&height=220&section=header&text=Priyansh%20Salian&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%94%20Distributed%20Systems%20%E2%80%94%20AI%20Infrastructure&descSize=17&descAlignY=60&descAlign=50"/>
 
 <a href="https://github.com/priyanshpsalian">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+Chicago+Transit+Authority;Distributed+Systems+%7C+AI+Infrastructure;15B+Events+%2F+Day+%E2%80%94+99.99%25+Uptime;Building+at+City+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+distributed+systems+at+city+scale;AI+Infrastructure+%7C+Platform+Engineering;15+Billion+events+processed+daily;99.99%25+uptime+across+40%2B+systems;Full-Stack+%E2%80%94+Infra+to+Product" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-priyanshsalian.me-00d4ff?style=flat-square&logo=vercel&logoColor=black)](https://priyanshsalian.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshsalian/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:psalian1@hawk.illinoistech.edu)
-[![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=flat-square)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-priyanshsalian.me-00d4ff?style=flat-square&logo=vercel&logoColor=black)](https://priyanshsalian.me)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshsalian/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:psalian1@hawk.illinoistech.edu)&nbsp;
+[![Years](https://img.shields.io/badge/Experience-5%2B%20Years-22c55e?style=flat-square)](#)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=priyanshpsalian&color=7c3aed&style=flat-square&label=Profile+Views)](#)
 
 </div>
 
 ---
 
-## `whoami`
+## `$ whoami`
 
-```yaml
-name:     Priyansh Salian
-role:     Software Engineer @ Chicago Transit Authority
-focus:
-  - Distributed systems & event-driven architecture
-  - AI infrastructure & ML platform engineering
-  - Cloud-native & Kubernetes platform engineering
-  - Full-stack product engineering
-target_roles:
-  - Senior Software Engineer
-  - Staff Engineer
-  - AI Infrastructure / Platform Engineering
-  - Distributed Systems Engineer
-location: United States
-contact:  psalian1@hawk.illinoistech.edu
+```typescript
+const engineer = {
+  name:       "Priyansh Salian",
+  title:      "Software Engineer",
+  experience: "5+ years in production systems",
+  focus: [
+    "Distributed Systems & Event-Driven Architecture",
+    "AI Infrastructure & ML Platform Engineering",
+    "Cloud-Native & Kubernetes Platform Engineering",
+    "Full-Stack Product Engineering",
+  ],
+  looking_for: [
+    "Senior Software Engineer",
+    "Staff Engineer",
+    "AI Infrastructure / Platform Engineering",
+    "Distributed Systems / Backend",
+  ],
+  contact: "psalian1@hawk.illinoistech.edu",
+  site:    "https://priyanshsalian.me",
+};
 ```
 
 ---
 
-## ⚡ By the Numbers
+## ⚡ Impact at Scale
 
 <div align="center">
 
-| 🖥️ Systems Deployed | 📡 Events / Day | ⏱️ Uptime | 👷 Engineers Enabled |
-|:---:|:---:|:---:|:---:|
-| **40+** | **15 Billion** | **99.99%** | **300+** |
+| 🖥️ Systems Deployed | 📡 Events / Day | ⏱️ Uptime SLA | 👷 Engineers Enabled | 🤖 Concurrent AI Sessions |
+|:---:|:---:|:---:|:---:|:---:|
+| **40+** | **15 Billion** | **99.99%** | **300+** | **50K+** |
 
 </div>
-
----
-
-## 🏢 Where I've Shipped
-
-```
-Chicago Transit Authority    │ Software Engineer       │ May 2025 – Present
-Silicon Netsecure Pvt Ltd   │ Full Stack Engineer     │ Jul 2023 – Aug 2024
-SolBlocks Digital Solutions │ Frontend Engineer       │ Jul 2022 – Jul 2023
-Foozie.Fit                  │ Software Developer      │ Jun 2020 – Jul 2022
-```
 
 ---
 
 ## 🛠️ Tech Stack
 
-```
-Languages      │  TypeScript  Python  Go  Java  C++  SQL  Bash
-Frontend       │  React  Next.js  Tailwind  Three.js  WebGL  Framer Motion
-Backend        │  Node.js  FastAPI  GraphQL  gRPC  REST APIs  WebSockets
-Infrastructure │  Kubernetes  Docker  Terraform  CI/CD  Nginx  Linux
-Cloud          │  AWS  GCP  Azure  Vercel
-Data           │  PostgreSQL  Redis  Kafka  ClickHouse  MongoDB  Elasticsearch
-               │  Apache Spark  Airflow  dbt  Snowflake  BigQuery  Pandas
-AI/ML          │  PyTorch  LLM APIs  RAG Systems  Vector DBs  LangChain  OpenAI API
-```
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**Infrastructure & Cloud**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Data & Streaming**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-7c3aed?style=flat-square&logo=pinecone&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-ec4899?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-## 🔨 Featured Projects
+## 🚀 Featured Projects
 
-| Project | What it does | Scale |
+<div align="center">
+
+| Project | Description | Scale |
 |---------|-------------|-------|
-| [**NeuralMesh**](https://priyanshsalian.me/#projects) | Distributed ML inference orchestration | 2.3M req/min · 47ms p99 |
-| [**StreamForge**](https://priyanshsalian.me/#projects) | Kafka-native event streaming backbone | 15B events/day · 0 loss |
-| [**Nexus Deploy**](https://priyanshsalian.me/#projects) | Multi-cloud deployment orchestration | 12K deploys/day · 300+ teams |
-| [**ObserveIQ**](https://priyanshsalian.me/#projects) | Full-stack observability platform | 800K metrics/sec · −91% alert noise |
-| [**VectorNova**](https://priyanshsalian.me/#projects) | High-performance vector database | 100B+ vectors · <5ms query |
-| [**SentinelAI**](https://priyanshsalian.me/#projects) | AI-powered security intelligence | MTTD: 4h → 3min |
+| 🧠 [**NeuralMesh**](https://priyanshsalian.me/#projects) | Distributed ML inference orchestration — Kubernetes-native, multi-region | `2.3M req/min` · `47ms p99` · `99.99% uptime` |
+| ⚡ [**StreamForge**](https://priyanshsalian.me/#projects) | Kafka-native event streaming backbone — schema registry, Flink processing | `15B events/day` · `4.2M/s throughput` · `0 message loss` |
+| 🚀 [**Nexus Deploy**](https://priyanshsalian.me/#projects) | Multi-cloud deployment orchestration — blue/green, canary, auto-rollback | `12K deploys/day` · `45s MTTR` · `300+ teams` |
+| 🔭 [**ObserveIQ**](https://priyanshsalian.me/#projects) | Full-stack observability — metrics, logs, traces, ML-powered alerting | `800K metrics/sec` · `−91% alert noise` · `<200ms queries` |
+| 🔍 [**VectorNova**](https://priyanshsalian.me/#projects) | High-performance vector database — custom HNSW, tiered storage | `100B+ vectors` · `<5ms search` · `1M writes/s` |
+| 🛡️ [**SentinelAI**](https://priyanshsalian.me/#projects) | AI security intelligence — LSTM anomaly detection, LLM incident triage | `MTTD: 4h → 3min` · `−94% false positives` |
+| 🤖 [**FluxOrchestrate**](https://priyanshsalian.me/#projects) | LLM workflow orchestration — DAG engine, checkpoint/resume, audit trails | `50K+ concurrent sessions` · `99.7% success rate` |
+| 🌐 [**Prism Gateway**](https://priyanshsalian.me/#projects) | Enterprise LLM API gateway — semantic caching, PII redaction, 15+ providers | `78% cache hit rate` · `$2M/mo cost saved` · `<3ms overhead` |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshpsalian&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshpsalian&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshpsalian&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshpsalian&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&hide=html,css" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshpsalian&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ec4899&currStreakLabel=00d4ff" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshpsalian&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ec4899&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" width="65%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshpsalian&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ec4899&area=true&hide_border=true" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshpsalian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something
 
 <div align="center">
 
-**Looking for my next big challenge. If you're building something ambitious — let's talk.**
+**5+ years shipping production systems at scale.**
+**If you're building something ambitious — let's talk.**
 
-[![Portfolio](https://img.shields.io/badge/-priyanshsalian.me-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://priyanshsalian.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshsalian/)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/-priyanshsalian.me-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://priyanshsalian.me)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshsalian/)&nbsp;
 [![Email](https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psalian1@hawk.illinoistech.edu)
 
 </div>
